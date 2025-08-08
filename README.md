@@ -25,7 +25,7 @@ From **AI-powered medical tools** to **full-stack applications**, I love buildin
 
 ---
 
-##🔹 **Passions:**  
+🔹 **Passions:**  
 - Machine Learning & Artificial Intelligence  
 - Data Analytics & Visualization  
 - Real-world problem solving through tech  
@@ -33,7 +33,7 @@ From **AI-powered medical tools** to **full-stack applications**, I love buildin
 
 ---
 
-##🔹 **What I’m up to:**  
+🔹 **What I’m up to:**  
 - CTO @ **Oasis LPU**  
 - Member & Placement Coordinator @ **Student Placement Committee**  
 - Active in hackathons, coding challenges, and tech communities  
