@@ -10,6 +10,16 @@
 I’m a 2nd-year Computer Science student exploring the fascinating world where **data meets intelligence**.  
 From **AI-powered medical tools** to **full-stack applications**, I love building solutions that make a real impact.  
 
+- 🌱 Currently learning **Advanced ML techniques** and **Cloud Deployment**  
+- 🧠 Strong foundation in **Data Structures & Algorithms**  
+- 💼 Internship Experience in **AI & Machine Learning (SkillCraft, AICTE)**  
+- 📊 Skilled in **Data Analytics, SQL, Excel, Power BI**  
+- 🛠 Built **AI-powered healthcare tools** and **financial web apps**  
+- 🏫 Leadership Roles: **CTO @ Oasis LPU**, **Placement Coordinator @ LPU**  
+- 🎤 Excellent in **team leadership, communication, and public speaking**  
+- 🎯 Competitive Achievements: Ranked **5th in Code Hunt @ IIT Ropar**, **Hackathon Finalist**, **1st place in Tech Quiz**  
+- 💡 Interested in applying **AI/ML** in **Healthcare, Sustainability & Education**  
+
 ---
 
 ## 🌐 Socials  
@@ -66,5 +76,19 @@ From **AI-powered medical tools** to **full-stack applications**, I love buildin
 ![](https://github-profile-trophy.vercel.app/?username=medhajha810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## ✍️ Random Dev Quote  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+## 🔝 Top Contributed Repos  
+
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=medhajha810&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=medhajha810&icon=0&color=0)](https://visitcount.itsvg.in)  
+
 
 > _"Data is more than numbers — it’s a story waiting to be told."_
