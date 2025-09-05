@@ -90,5 +90,13 @@ From **AI-powered medical tools** to **full-stack applications**, I love buildin
 
 [![](https://visitcount.itsvg.in/api?id=medhajha810&icon=0&color=0)](https://visitcount.itsvg.in)  
 
+## 🤝 Let’s Connect
+📧 **Email:** medhajha810@gmail.com | medha.jha23@lpu.in
+📱 **Mobile:** +91 8709684588
+🌐 [LinkedIn](https://www.linkedin.com/in/medha-jha810/) | [GitHub](https://github.com/medhajha810)  
+
+---
+⭐️ From [medhajha810](https://github.com/medhajha810)
+
 
 > _"Data is more than numbers — it’s a story waiting to be told."_
