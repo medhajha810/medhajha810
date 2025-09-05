@@ -1,6 +1,6 @@
 # Hi there, I'm Medha Jha 👋  
 
-🎓 **B.Tech CSE @ Lovely Professional University** (Minor in Data Science) | GPA: 8.7/10  
+🎓 **B.Tech CSE @ Lovely Professional University** (Minor in Data Science) | GPA: 8.61/10  
 📍 From Bihar, India | Currently in Punjab  
 💡 **Machine Learning & Data Analysis Enthusiast** | Passionate about turning data into actionable insights  
 
@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About Me  
-I’m a 2nd-year Computer Science student exploring the fascinating world where **data meets intelligence**.  
+I’m a 3rd-year Computer Science student exploring the fascinating world where **data meets intelligence**.  
 From **AI-powered medical tools** to **full-stack applications**, I love building solutions that make a real impact.  
 
 - 🌱 Currently learning **Advanced ML techniques** and **Cloud Deployment**  
