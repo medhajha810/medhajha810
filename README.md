@@ -4,6 +4,10 @@
 📍 From Bihar, India | Currently in Punjab  
 💡 **Machine Learning & Data Analysis Enthusiast** | Passionate about turning data into actionable insights  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/medha-jha810/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/medhajha810)
+![Visitors](https://komarev.com/ghpvc/?username=medhajha810&style=flat-square&color=blue)
+
 ---
 
 ## 🌟 About Me  
