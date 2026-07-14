@@ -1,7 +1,7 @@
 # Hi there, I'm Medha Jha 👋  
 
-🎓 **B.Tech CSE @ Lovely Professional University** (Minor in Data Science) | GPA: 8.61/10  
-📍 From Bihar, India | Currently in Punjab  
+🎓 **B.Tech CSE @ Lovely Professional University** (Minor in Data Science) | GPA: 8.67/10  
+📍 From Bihar, India | Currently in Bengaluru  
 💡 **Machine Learning & Data Analysis Enthusiast** | Passionate about turning data into actionable insights  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/medha-jha810/)
