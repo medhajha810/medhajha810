@@ -1,12 +1,15 @@
-<!-- ====================== ANIMATED HEADER ====================== -->
+<!-- ====================== ANIMATED HEADER ======================
+     Palette: #4158D0 indigo → #C850C0 magenta → #FFCC70 gold
+     Swap `type=` for another look: venom | waving | soft | cylinder | slice | rect | egg
+-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1631B8,50:2348E6,100:0EA894&height=220&section=header&text=Medha%20Jha&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%C2%B7%20ML%20%C2%B7%20Data%20Analytics&descAlignY=58&descSize=20" width="100%" alt="Medha Jha" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4158D0,50:C850C0,100:FFCC70&height=230&section=header&text=Medha%20Jha&fontSize=72&fontColor=ffffff&fontAlignY=34&animation=scaleIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Analytics&descAlignY=52&descSize=18" width="100%" alt="Medha Jha" />
 </div>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
   <a href="https://medhajhaportfolio.web.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2348E6&center=true&vCenter=true&width=720&lines=Engineering+Apprentice+%40+Infineon+Technologies;Final-year+B.Tech+CSE+%7C+Data+Science+Minor;Building+AI+for+healthcare+%26+education;Data+is+more+than+numbers+%E2%80%94+it's+a+story" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3200&pause=900&color=C850C0&center=true&vCenter=true&width=760&lines=Engineering+Apprentice+%40+Infineon+Technologies;Final-year+B.Tech+CSE+%7C+Data+Science+Minor;Building+AI+for+healthcare+%26+education;Data+is+more+than+numbers+%E2%80%94+it's+a+story" alt="What I do" />
   </a>
 </div>
 
@@ -15,13 +18,15 @@
 <!-- ====================== BADGES ====================== -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medha-jha810/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2348E6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medhajhaportfolio.web.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhajha810@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Medhajha810/)
+### 🌐 &nbsp;[**Explore my portfolio → medhajhaportfolio.web.app**](https://medhajhaportfolio.web.app/)
 
-![Profile views](https://komarev.com/ghpvc/?username=medhajha810&style=for-the-badge&color=2348E6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/medhajha810?style=for-the-badge&color=0EA894&labelColor=1631B8)](https://github.com/medhajha810?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-C850C0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medhajhaportfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4158D0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medha-jha810/)
+[![Email](https://img.shields.io/badge/Email-Contact-FFCC70?style=for-the-badge&logo=gmail&logoColor=black)](mailto:medhajha810@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Medhajha810/)
+
+![Profile views](https://komarev.com/ghpvc/?username=medhajha810&style=for-the-badge&color=C850C0&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/medhajha810?style=for-the-badge&color=FFCC70&labelColor=4158D0)](https://github.com/medhajha810?tab=followers)
 
 </div>
 
@@ -51,12 +56,21 @@ Secretary** of LPU's Students Career Committee, running technical events and men
 ```yaml
 name:      Medha Jha
 role:      Engineering Apprentice @ Infineon Technologies
-education: B.Tech CSE (Minor in Data Science) · LPU · 4th Year
+education: B.Tech CSE (Minor in Data Science) · LPU · CGPA 8.61/10
 location:  Bihar, India → Bengaluru
+portfolio: https://medhajhaportfolio.web.app
 learning:  [advanced ML, cloud deployment, MLOps]
 ask_me:    [AI/ML, data analytics, EdTech products]
 email:     medhajha810@gmail.com
 ```
+
+<div align="center">
+
+| 🚀 Projects shipped | 🏆 Hackathon wins & finals | 💻 LeetCode solved | 🎓 CGPA |
+| :---: | :---: | :---: | :---: |
+| **11** | **8** | **200+** | **8.61** / 10 |
+
+</div>
 
 ---
 
@@ -66,40 +80,28 @@ email:     medhajha810@gmail.com
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,r,mysql&theme=dark)](https://skillicons.dev)
+**ML, Data & Back end**
 
-**ML & Data**
+[![ML and backend](https://skillicons.dev/icons?i=tensorflow,sklearn,flask,fastapi,spring,nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-4158D0?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-4158D0?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-C850C0?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-C850C0?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFCC70?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FFCC70?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Web & Backend**
+**Front end, DevOps & Tools**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=react,tailwind,firebase,git,github,githubactions,docker,maven&theme=dark)](https://skillicons.dev)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-4158D0?style=flat-square&logo=blockchaindotcom&logoColor=white)
+![Internet Computer](https://img.shields.io/badge/Internet_Computer-C850C0?style=flat-square&logo=internetcomputer&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR_R4-FFCC70?style=flat-square&logo=hl7&logoColor=black)
 
 </div>
 
@@ -109,24 +111,30 @@ email:     medhajha810@gmail.com
 
 <div align="center">
 
-<a href="https://github.com/medhajha810/TruthLens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medhajha810&repo=TruthLens&theme=react&hide_border=true&bg_color=0D1117&title_color=2348E6&icon_color=0EA894" alt="TruthLens" />
+<a href="https://github.com/medhajha810/Exploratory-Data-Analysis-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medhajha810&repo=Exploratory-Data-Analysis-Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=C850C0&icon_color=FFCC70&text_color=C9D1D9" alt="PGI EDA" />
 </a>
-<a href="https://github.com/medhajha810/VeritasVox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medhajha810&repo=VeritasVox&theme=react&hide_border=true&bg_color=0D1117&title_color=2348E6&icon_color=0EA894" alt="VeritasVox" />
+<a href="https://github.com/medhajha810/Ayush_Interop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medhajha810&repo=Ayush_Interop&theme=radical&hide_border=true&bg_color=0D1117&title_color=C850C0&icon_color=FFCC70&text_color=C9D1D9" alt="AYUSH-INTEROP" />
 </a>
 
 </div>
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[TruthLens](https://github.com/medhajha810/TruthLens)** | Fake-news & fact-checking platform combining deep learning with multimodal analysis to detect misinformation in text and media. | `Python` `DL` `NLP` |
-| **[VeritasVox](https://github.com/medhajha810/VeritasVox)** | AI truth-verification tool using NLP and sentiment analysis for real-time, voice-based misinformation detection. | `Python` `NLP` |
-| **DSA Course Recommender** | Full-stack app with graph-based visualisation of course dependencies and Trie-based search. | `Flask` `Tailwind` `Firebase` |
-| **GI Cancer Detection** | CNN for early cancer detection from medical imaging — **98% accuracy**. | `TensorFlow` `Keras` |
-| **Health Management System** | Blockchain patient records on the Internet Computer, integrated with ABHA for secure interoperability. | `ICP` `Blockchain` |
-| **Medical AI Assistant** | Symptom analysis for diabetes, heart disease and brain tumours; mobile-first for rural access. | `Python` `ML` |
-| **Digit Recognizer** | CNN trained on MNIST for handwritten digit recognition. | `TensorFlow` `Keras` |
+> 🔎 **Full case studies with screenshots, metrics and live demos → [medhajhaportfolio.web.app](https://medhajhaportfolio.web.app/#projects)**
+
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **AYUSH-INTEROP** | FHIR R4 gateway dual-coding India's NAMASTE traditional-medicine terms with WHO ICD-11. Secured with ABHA OAuth2 and ISO 22600 consent. | `FastAPI` `Python` `TypeScript` | [Code](https://github.com/medhajha810/Ayush_Interop) · [**Live**](https://schandel08-ayush-fhir.hf.space/) |
+| **GI Cancer Detection** | CNN detecting gastrointestinal cancer from endoscopic images — **98% accuracy** with fewer false positives. | `TensorFlow` `Keras` `CV` | [Code](https://github.com/medhajha810/Cancer-detection) · [**Live**](https://new-cancer.onrender.com) |
+| **Sentiment Analyzer + MLOps** | Spring Boot sentiment service with automated CI/CD; Maven bundles the model for reproducible, versioned deploys. | `Spring Boot` `Maven` `Actions` | [Code](https://github.com/medhajha810/Devops_Project) · [**Live**](http://52.62.31.105/) |
+| **PGI District Analysis** ⭐ | EDA of India's district-level education Performance Grading Index. **My most-starred repo.** | `Pandas` `Seaborn` `NumPy` | [Code](https://github.com/medhajha810/Exploratory-Data-Analysis-Project) |
+| **India AQI Dashboard** | Power BI dashboard over 3,300+ air-quality records with a geospatial map ranking the most polluted cities. | `Power BI` `Power Query` `DAX` | [**Live**](https://app.powerbi.com/view?r=eyJrIjoiYTM2MmI3MWEtOWJhMS00YWIwLTg3NmMtMjI4YTA4NzQ1M2I4IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D) |
+| **Health Management System** | Blockchain patient records on the Internet Computer, integrated with ABHA for secure interoperability. | `ICP` `Blockchain` `AI` | [Code](https://github.com/medhajha810/Health-Management) · [**Live**](https://p2x5t-yqaaa-aaaah-arcma-cai.icp0.io/#/project-details) |
+| **TruthLens** | Accessible AI news platform with bias indicators, fact-checking, voice navigation, screen-reader support and colour-blind modes. | `React` `Node.js` `Tailwind` | [Code](https://github.com/medhajha810/TruthLens) |
+| **VeritasVox** | Transcribes podcast audio, extracts factual claims, verifies them against WHO/CDC/news APIs and scores each episode 0–100. | `Python` `NLP` `Whisper` | [Code](https://github.com/medhajha810/VeritasVox) |
+| **DSA Course Recommender** | Course planner using graph visualisation, Trie search, BFS eligibility checks and topological sort. | `Flask` `Tailwind` `Firebase` | [Code](https://github.com/medhajha810/DSA_Project) |
+| **Hand Gesture Recognition** | Real-time CNN classifying 10 hand gestures from live camera or upload. | `TensorFlow` `Flask` | [Code](https://github.com/medhajha810/SCT_DS_4) |
+| **MSME Insights Dashboard** | Interactive Excel dashboard of MSME registrations across India by region, social category and time. | `Excel` `Power Query` | — |
 
 ---
 
@@ -139,30 +147,35 @@ email:     medhajha810@gmail.com
 
 **Engineering Apprentice** · Infineon Technologies
 *Jul 2026 – Present · Bengaluru*
-Hands-on training across engineering workflows and exploratory data analysis.
+- Joined Infineon's emerging-talent programme, working across AI, data and software engineering
+- **Earned the offer by competing in Infineon's Agentic Bug Hunter hackathon**
 
 **Software Engineer Intern & Founding Contributor** · TeachGenie.ai
-*Feb 2026 – Jul 2026 · Punjab*
-- Contributed to AI-powered educational products using Python, ML and Generative AI
-- Collaborated cross-functionally to design, test and ship product features
-- Supported automation and optimisation efforts to improve platform efficiency
+*Feb 2026 – Jun 2026 · LPU, Punjab*
+- Joined as an intern and was brought onto the founding team of this DPIIT-recognised EdTech startup
+- Built and shipped product features with the founders during the startup's early stage
+- Worked with Python, ML and Generative AI across the product
 
-**ML Intern** · SkillCraft Technology
-*Jul 2025*
-- Built a deep learning model classifying 10 hand gestures for human-computer interaction
-- Shipped a full-stack app (Flask API + HTML/CSS/JS) with live camera feed and real-time predictions
+**Machine Learning Intern** · SkillCraft Technology
+*Jun 2025 – Jul 2025 · Remote*
+- Built a deep learning model classifying 10 hand gestures for intuitive human-computer interaction
+- Engineered a full-stack app with a Flask API back end and HTML/CSS/JS front end
+- Connected a live camera feed to the trained model for real-time predictions
+
+**Data Analytics Job Simulation** · Deloitte Australia
+*Jun 2025 · Virtual*
+- Practised data analysis and forensic technology on real-world style tasks
+- Classified datasets in Excel and built an interactive Tableau dashboard
+
+**GenAI-Powered Data Analytics Simulation** · Tata Group
+*Jun 2025 · Virtual*
+- Ran exploratory data analysis with GenAI tools to assess data quality and spot risk indicators
+- Proposed a no-code predictive modelling framework for customer delinquency risk
+- Designed an AI-driven collections strategy using agentic AI and automation
 
 **Software Intern** · AICTE
 *Feb 2025 – Mar 2025*
-- Built an AI-powered disease-detection application using deep learning (TensorFlow, PyTorch) and MongoDB
-
-**Data Analytics Virtual Internship** · Deloitte
-*Jun 2025*
-- Classified datasets and derived insights in Excel; built a Tableau dashboard for forensic data
-
-**GenAI Data Analytics Simulation** · Tata Group
-*Jun 2025*
-- Ran exploratory data analysis with GenAI tools and proposed a predictive-modelling and AI-driven collections framework
+- Built an AI-powered disease-detection application using deep learning and MongoDB
 
 </details>
 
@@ -171,9 +184,13 @@ Hands-on training across engineering workflows and exploratory data analysis.
 
 <br/>
 
-- **Chief Technical Officer**, Oasis LPU — *Mar 2025 – Jun 2026*
-- **Tech Head & Joint Secretary**, Students Career Committee, LPU — *Apr 2025 – Jun 2026*
+- **Chief Technical Officer**, Oasis LPU — *Mar 2025 – Present*
+  Lead technical direction, mentor junior developers, design end-to-end workflows for events and hackathons.
+- **Tech Head & Placement Coordinator**, Students Career Committee, LPU — *Dec 2024 – Present*
+  Organise placement drives and mock interviews, build placement dashboards; organiser and mentor at TechXpo 2025.
 - **Campus Ambassador**, GirlScript Summer of Code (GSSoC), JEC Jabalpur — *Sep – Nov 2025*
+- **Volunteer, Digital Literacy Trainer**, NGME Trust, Raxaul (Bihar) — *Jun – Jul 2024*
+  Taught rural children basic digital skills and ran parent outreach on schooling and enrolment.
 
 </details>
 
@@ -182,14 +199,17 @@ Hands-on training across engineering workflows and exploratory data analysis.
 
 <br/>
 
-| | Achievement | Event |
-| :--: | :--- | :--- |
-| 🥇 | **Winner** | HackAI — AI Hackathon, LPU |
-| 🥈 | **Runner-up** | BlockseBlock National Blockchain Hackathon |
-| 🏅 | **5th Place** | Code Hunt, IIT Ropar |
-| 🎯 | **Finalist** | Road Safety Hackathon, NHAI |
-| 🏆 | **1st Place** | Wisdom War Tech Quiz, CPE Club |
-| ⭐ | **Star Performer** | Lovely Professional University |
+| | Achievement | Event | Year |
+| :--: | :--- | :--- | :--- |
+| 💼 | **Led to apprenticeship offer** | Agentic Bug Hunter Hackathon, Infineon | 2026 |
+| 🥇 | **Winner** | HackAI — AI Hackathon, LPU | 2025 |
+| 🥈 | **Runner-up** | BlockseBlock National Blockchain Hackathon | 2025 |
+| 🌍 | **National round** | World Computer Hacker League 2025 | 2025 |
+| 🏅 | **5th Place** | Code Hunt, IIT Ropar | 2025 |
+| 🎯 | **Finalist** | Road Safety Hackathon, NHAI | 2025 |
+| 🎯 | **Finalist** | Triwizardathon | 2025 |
+| 🏆 | **1st Place** | Wisdom War Tech Quiz, CPE Club | 2023 |
+| ⭐ | **Star Performer Award** | Lovely Professional University | — |
 
 </details>
 
@@ -198,11 +218,16 @@ Hands-on training across engineering workflows and exploratory data analysis.
 
 <br/>
 
-- 140-hour DSA Training — Hitbullseye
-- Digital Systems: From Logic Gates to Processors — Coursera
-- Fundamentals of Network Communication — Coursera
-- DSA with C — CSE Pathshala
-- Python Programming — Infosys Springboard
+| Certification | Issuer | Date |
+| :--- | :--- | :--- |
+| 140 Hours DSA Training | Hitbullseye | Jul 2025 |
+| Digital Systems: From Logic Gates to Processors | Coursera | Sep 2024 |
+| Fundamentals of Network Communication | Coursera | Sep 2024 |
+| Data Science | Board Infinity | 2024 |
+| Data Analytics | Coursera | 2024 |
+| Internet of Things | Infosys Springboard | 2024 |
+| Python Programming | Infosys Springboard | Oct 2023 |
+| DSA with C | CSE Pathshala | — |
 
 </details>
 
@@ -212,32 +237,11 @@ Hands-on training across engineering workflows and exploratory data analysis.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=medhajha810&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2348E6&icon_color=0EA894&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=medhajha810&theme=react&hide_border=true&background=0D1117&ring=2348E6&fire=0EA894&currStreakLabel=2348E6" alt="Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=medhajha810&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C850C0&icon_color=FFCC70&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=medhajha810&hide_border=true&background=0D1117&ring=C850C0&fire=FFCC70&currStreakLabel=C850C0&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D" alt="Streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhajha810&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2348E6&langs_count=8" alt="Top languages" />
-<img height="165" src="https://github-contributor-stats.vercel.app/api?username=medhajha810&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhajha810&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C850C0&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medhajha810&theme=react-dark&bg_color=0D1117&color=2348E6&line=0EA894&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medhajha810&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
-
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true" alt="Random dev quote" />
 </div>
 
 ---
@@ -246,11 +250,14 @@ Hands-on training across engineering workflows and exploratory data analysis.
 
 <div align="center">
 
+### 🌐 [**medhajhaportfolio.web.app**](https://medhajhaportfolio.web.app/)
+
 📧 **medhajha810@gmail.com** · medha.jha23@lpu.in
 
-<a href="https://www.linkedin.com/in/medha-jha810/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medhajhaportfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-2348E6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://medhajhaportfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-C850C0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/medha-jha810/"><img src="https://img.shields.io/badge/LinkedIn-4158D0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Medhajha810/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/medhajha810"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 <a href="https://www.instagram.com/medha_jha08/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:medhajha810@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -261,4 +268,4 @@ Hands-on training across engineering workflows and exploratory data analysis.
 </div>
 
 <!-- ====================== ANIMATED FOOTER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA894,50:2348E6,100:1631B8&height=140&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC70,50:C850C0,100:4158D0&height=150&section=footer" width="100%" alt="" />
