@@ -1,9 +1,9 @@
 <!-- ====================== ANIMATED HEADER ======================
      Palette: #4158D0 indigo → #C850C0 magenta → #FFCC70 gold
-     Swap `type=` for another look: venom | waving | soft | cylinder | slice | rect | egg
+     Swap `type=` for another look: waving | soft | cylinder | slice | rect | egg | venom
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4158D0,50:C850C0,100:FFCC70&height=230&section=header&text=Medha%20Jha&fontSize=72&fontColor=ffffff&fontAlignY=34&animation=scaleIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Analytics&descAlignY=52&descSize=18" width="100%" alt="Medha Jha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Medha%20Jha&fontSize=66&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=56&descSize=16" width="100%" alt="Medha Jha" />
 </div>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
@@ -50,8 +50,8 @@ engineering**. I'm currently an **Engineering Apprentice at Infineon Technologie
 My work spans machine learning, data analytics and full-stack development, with a particular interest
 in applying AI to **healthcare, education and sustainability**.
 
-Outside of internships I've led technical teams as **CTO at Oasis LPU** and as **Tech Head & Joint
-Secretary** of LPU's Students Career Committee, running technical events and mentoring peers.
+Outside of internships I've led technical teams as **CTO at Oasis LPU** and as **Tech Head & Placement
+Coordinator** of LPU's Students Career Committee, running technical events and mentoring peers.
 
 ```yaml
 name:      Medha Jha
@@ -81,7 +81,7 @@ email:     medhajha810@gmail.com
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,r,mysql&theme=dark)](https://skillicons.dev)
-**ML, Data & Back end**
+
 
 [![ML and backend](https://skillicons.dev/icons?i=tensorflow,sklearn,flask,fastapi,spring,nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
 
@@ -111,12 +111,36 @@ email:     medhajha810@gmail.com
 
 <div align="center">
 
-<a href="https://github.com/medhajha810/Exploratory-Data-Analysis-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medhajha810&repo=Exploratory-Data-Analysis-Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=C850C0&icon_color=FFCC70&text_color=C9D1D9" alt="PGI EDA" />
-</a>
-<a href="https://github.com/medhajha810/Ayush_Interop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medhajha810&repo=Ayush_Interop&theme=radical&hide_border=true&bg_color=0D1117&title_color=C850C0&icon_color=FFCC70&text_color=C9D1D9" alt="AYUSH-INTEROP" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ PGI District Analysis
+**My most-starred repository**
+
+Exploratory analysis of India's district-level education Performance Grading Index, surfacing trends
+and correlations across every state and UT, with insights aimed at policy recommendations.
+
+`Python` `Pandas` `Seaborn` `NumPy`
+
+[**View code →**](https://github.com/medhajha810/Exploratory-Data-Analysis-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 AYUSH-INTEROP
+**FHIR R4 healthcare gateway**
+
+Dual-codes India's NAMASTE traditional-medicine terms with WHO ICD-11 in a single FHIR resource.
+Secured with ABHA OAuth2, ISO 22600 consent and full audit trails.
+
+`FastAPI` `Python` `TypeScript`
+
+[**View code →**](https://github.com/medhajha810/Ayush_Interop) · [**Live demo →**](https://schandel08-ayush-fhir.hf.space/)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -140,57 +164,130 @@ email:     medhajha810@gmail.com
 
 <!-- ====================== COLLAPSIBLE SECTIONS (native GitHub interactivity) ====================== -->
 
-<details>
-<summary><h3>💼 Experience &nbsp;<i>(click to expand)</i></h3></summary>
+<details open>
+<summary><h3>💼 Experience &nbsp;<i>(click to collapse)</i></h3></summary>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Engineering Apprentice** · Infineon Technologies
-*Jul 2026 – Present · Bengaluru*
-- Joined Infineon's emerging-talent programme, working across AI, data and software engineering
-- **Earned the offer by competing in Infineon's Agentic Bug Hunter hackathon**
+#### 🔷 Infineon Technologies
+**Engineering Apprentice**
+`Jul 2026 – Present` · Bengaluru
 
-**Software Engineer Intern & Founding Contributor** · TeachGenie.ai
-*Feb 2026 – Jun 2026 · LPU, Punjab*
-- Joined as an intern and was brought onto the founding team of this DPIIT-recognised EdTech startup
-- Built and shipped product features with the founders during the startup's early stage
-- Worked with Python, ML and Generative AI across the product
+- Working across AI, data and software engineering in Infineon's emerging-talent programme
+- **Earned the offer by competing in the Agentic Bug Hunter hackathon**
 
-**Machine Learning Intern** · SkillCraft Technology
-*Jun 2025 – Jul 2025 · Remote*
-- Built a deep learning model classifying 10 hand gestures for intuitive human-computer interaction
-- Engineered a full-stack app with a Flask API back end and HTML/CSS/JS front end
-- Connected a live camera feed to the trained model for real-time predictions
+</td>
+<td width="50%" valign="top">
 
-**Data Analytics Job Simulation** · Deloitte Australia
-*Jun 2025 · Virtual*
-- Practised data analysis and forensic technology on real-world style tasks
-- Classified datasets in Excel and built an interactive Tableau dashboard
+#### 🟣 TeachGenie.ai
+**SWE Intern & Founding Contributor**
+`Feb 2026 – Jun 2026` · LPU, Punjab
 
-**GenAI-Powered Data Analytics Simulation** · Tata Group
-*Jun 2025 · Virtual*
-- Ran exploratory data analysis with GenAI tools to assess data quality and spot risk indicators
-- Proposed a no-code predictive modelling framework for customer delinquency risk
-- Designed an AI-driven collections strategy using agentic AI and automation
+- Brought onto the founding team of a **DPIIT-recognised** EdTech startup
+- Shipped product features alongside the founders at early stage
+- Python, ML and Generative AI across the product
 
-**Software Intern** · AICTE
-*Feb 2025 – Mar 2025*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🟡 SkillCraft Technology
+**Machine Learning Intern**
+`Jun 2025 – Jul 2025` · Remote
+
+- Deep learning model classifying **10 hand gestures** for human-computer interaction
+- Full-stack app with a Flask API back end and JS front end
+- Live camera feed wired to the model for real-time prediction
+
+</td>
+<td width="50%" valign="top">
+
+#### 🟢 Deloitte Australia
+**Data Analytics Job Simulation**
+`Jun 2025` · Virtual
+
+- Data analysis and forensic technology on real-world style tasks
+- Classified datasets in Excel and built an interactive **Tableau dashboard**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔵 Tata Group
+**GenAI Data Analytics Simulation**
+`Jun 2025` · Virtual
+
+- EDA with GenAI tools to assess data quality and spot risk indicators
+- Proposed a no-code predictive model for delinquency risk
+- Designed an AI-driven collections strategy using agentic AI
+
+</td>
+<td width="50%" valign="top">
+
+#### 🟠 AICTE
+**Software Intern**
+`Feb 2025 – Mar 2025`
+
 - Built an AI-powered disease-detection application using deep learning and MongoDB
+
+</td>
+</tr>
+</table>
 
 </details>
 
 <details>
 <summary><h3>🏫 Leadership &nbsp;<i>(click to expand)</i></h3></summary>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Chief Technical Officer**, Oasis LPU — *Mar 2025 – Present*
-  Lead technical direction, mentor junior developers, design end-to-end workflows for events and hackathons.
-- **Tech Head & Placement Coordinator**, Students Career Committee, LPU — *Dec 2024 – Present*
-  Organise placement drives and mock interviews, build placement dashboards; organiser and mentor at TechXpo 2025.
-- **Campus Ambassador**, GirlScript Summer of Code (GSSoC), JEC Jabalpur — *Sep – Nov 2025*
-- **Volunteer, Digital Literacy Trainer**, NGME Trust, Raxaul (Bihar) — *Jun – Jul 2024*
-  Taught rural children basic digital skills and ran parent outreach on schooling and enrolment.
+#### 👑 Chief Technical Officer
+**Oasis LPU** · `Mar 2025 – Present`
+
+- Lead the organisation's technical direction and internal systems
+- Mentor junior developers and run internal training
+- Design end-to-end workflows for events, hackathons and tech fests
+- Handle live on-the-spot debugging during events
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 Tech Head & Placement Coordinator
+**Students Career Committee, LPU** · `Dec 2024 – Present`
+
+- Organise placement drives, company talks and mock interviews
+- Build placement dashboards, reports and eligibility charts
+- Coordinate schedules between recruiters and faculty
+- Organiser and team mentor at **TechXpo 2025**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 Campus Ambassador
+**GirlScript Summer of Code · JEC Jabalpur** · `Sep – Nov 2025`
+
+- Represented GSSoC on campus and drove open-source participation
+
+</td>
+<td width="50%" valign="top">
+
+#### ❤️ Digital Literacy Trainer
+**NGME Trust, Raxaul (Bihar)** · `Jun – Jul 2024`
+
+- Taught rural children basic digital skills to support their studies
+- Ran parent outreach on schooling, enrolment and digital literacy
+
+</td>
+</tr>
+</table>
 
 </details>
 
